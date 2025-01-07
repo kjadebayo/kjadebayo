@@ -1,17 +1,18 @@
-## Hello 👋 
-
-*kjadebayo/kjadebayo** is a ✨ _special_ ✨ repository because its \`README.md\` (this file) appears on your GitHub profile.
-
+# 💫 About Me:
+🔭 I'm currently working on improving Linux system administration skills<br>🌱 I'm currently learning Snap packaging and GNOME development<br>🤔 I'm looking for help with advanced Azure AD configurations<br>💬 Ask me about IT support best practices and Linux troubleshooting<br>📫 How to reach me: sudokj01@gmail.com<br>😄 Pronouns: He/Him
 
 
-- 🔭 I'm currently working on improving Linux system administration skills
-- 🌱 I'm currently learning Snap packaging and GNOME development
-- 👯 I'm looking to collaborate on open-source IT support tools
-- 🤔 I'm looking for help with advanced Azure AD configurations
-- 💬 Ask me about IT support best practices and Linux troubleshooting
-- 📫 How to reach me: sudokj01@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I combine my love for technology with bird watching and drawing!
-[youtube]: https://www.youtube.com/@sudokj
-[linkedin]: https://linkedin.com/in/kjadebayo
-[email]: mailto:sudokj01@gmail.com
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kjadebayo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sudokj) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kjadebayo&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kjadebayo&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kjadebayo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kjadebayo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
