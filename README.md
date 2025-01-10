@@ -1,18 +1,29 @@
-Hello: KJ Adebayo & Cybersecurity Project Portfolio 🔐 #:
-🔭 I'm currently working on improving Linux system administration skills<br>🌱 I'm currently learning Snap packaging and GNOME development<br>🤔 I'm looking for help with advanced Azure AD configurations<br>💬 Ask me about IT support best practices and Linux troubleshooting<br>📫 How to reach me: kayj31@hotmail.comm<br>😄 Pronouns: He/Him
+# <a href="https://www.linkedin.com/in/kjadebayo/">KJ Adebayo</a>'s IT and Cybersecurity Project Portfolio 🔐
+
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kjadebayo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sudokj) 
+## ⚠️ Vulnerability Management Projects
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kjadebayo&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kjadebayo&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kjadebayo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
----
-[![](https://visitcount.itsvg.in/api?id=kjadebayo&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚨 Threat Hunting and Security Operations
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/___________
+[youtube]: https://www.youtube.com/c/___________
+[instagram]: https://www.instagram.com/___________
+[linkedin]: https://linkedin.com/in/___________
+
+<!--
