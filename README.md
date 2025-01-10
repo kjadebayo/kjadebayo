@@ -1,4 +1,4 @@
-# 💫 Hello:
+Hello: KJ Adebayo & Cybersecurity Project Portfolio 🔐 #:
 🔭 I'm currently working on improving Linux system administration skills<br>🌱 I'm currently learning Snap packaging and GNOME development<br>🤔 I'm looking for help with advanced Azure AD configurations<br>💬 Ask me about IT support best practices and Linux troubleshooting<br>📫 How to reach me: kayj31@hotmail.comm<br>😄 Pronouns: He/Him
 
 
