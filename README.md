@@ -22,8 +22,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/___________
-[Youtube]: https://www.youtube/@sudokj
+[Youtube]: https://www.youtube/@sudokj?si=JDsbb929rtirLVV2
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: https://www.linkedin.com/in/kj-adebayo/
 
 <!--
