@@ -5,22 +5,18 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🖥️ Information Technology Projects🖥️
 
-- **[Vulnerability Management Program Implementation](https://github.com/kjadebayo/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](   )**
 
-# Azure 
 - **[Windowws Auto-pilot Automation)] (https://github.com/kjadebayo/WindowsAutopilotAutomation)**
+-  - [Setting Up Active Directory using Azure VMs](https://github.com/kjadebayo/configure-ad)
 
 <hr/>
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/___________
-[Youtube]: https://www.youtube/
+
 [linkedin]: https://www.linkedin.com/in/kj-adebayo/
 
 <!--
