@@ -5,9 +5,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🖥️ Information Technology Projects🖥️
 
+- <b> osTicket: Creating a Ticketing System for Help Desk </b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joeljjoseph1998/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joeljjoseph1998/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joeljjoseph1998/ticket-lifecycle)
+    
+- <b>Microsoft Azure</b>
 
-- **[Windowws Auto-pilot Automation)] (https://github.com/kjadebayo/WindowsAutopilotAutomation)**
--  - [Setting Up Active Directory using Azure VMs](https://github.com/kjadebayo/configure-ad)
+- [Windowws Auto-pilot Automation] (https://github.com/kjadebayo/WindowsAutopilotAutomation)**
+-   [Setting Up Active Directory using Azure VMs](https://github.com/kjadebayo/configure-ad)
 
 <hr/>
 
