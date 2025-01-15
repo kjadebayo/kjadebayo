@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
     
 - <b>Microsoft Azure</b>
 
-- [Windowws Auto-pilot Automation] (https://github.com/kjadebayo/WindowsAutopilotAutomation)**
+- [Windowws Auto-pilot Automation](https://github.com/kjadebayo/WindowsAutopilotAutomation)
 -   [Setting Up Active Directory using Azure VMs](https://github.com/kjadebayo/configure-ad)
 
 <hr/>
