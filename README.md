@@ -10,8 +10,8 @@
     
 - <b>Microsoft Azure</b>
 
-- [Windowws Auto-Pilot Automation](https://github.com/kjadebayo/WindowsAutopilotAutomation)
--   [Setting Up Active Directory using Azure VMs](https://github.com/kjadebayo/configure-ad)
+  - [Windowws Auto-Pilot Automation](https://github.com/kjadebayo/WindowsAutopilotAutomation)
+  -   [Setting Up Active Directory using Azure VMs](https://github.com/kjadebayo/configure-ad)
 
 <hr/>
 
